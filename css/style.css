@@ -1,0 +1,296 @@
+.container{
+	height:2619px;
+	width: 1920px;
+	margin: 0 auto;
+	color: #F8F8F8;
+}
+.half{position: relative;
+	width: 1920px;
+	background: #ffffff;
+}
+.web{
+	position: absolute;
+	font-family: "Lato";
+	font-size: 32px;
+	font-weight: 300;
+	line-height: 28px;
+	font-style: normal;
+	text-align: left;
+	color: #4b647e;
+	width: 199px;
+	height: 40px;
+	top:67px ;
+	left: 132px;
+	display:inline-block;
+}
+nav{
+	position: absolute;
+	margin-left: 1052px;
+	width: 543px;
+	height: 25px;
+	top:67px;
+}
+h2{
+	display: inline-block;
+	font-family: "Lato";
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 80px;
+	font-style: normal;
+	text-align: left;
+	color: #3d37f1;
+	display: inline-block;
+	margin-right: 23px;
+}
+.hh{
+font-family: "Lato";
+font-size: 78px;
+font-weight: bold;
+line-height: 109px;
+font-style: normal;
+text-align: left;
+color: #534d4d;
+position: absolute;
+width: 603px;
+height: 204px;
+left: 132px;
+top:391px;
+}
+h3{
+font-family: "Roboto";
+font-size: 22px;
+font-weight: normal;
+line-height: 32px;
+font-style: normal;
+text-align: left;
+color: #534d4d;
+position: absolute;
+width: 602px;
+height: 103px;
+top:636px ;
+left: 132px;
+}
+.div{
+position: absolute;
+width: 263.7px;
+height: 76.8px;
+border-radius: 38px;
+background: #3d37f1;
+left: 132px;
+top: 823px;
+}
+h4{
+font-family: "Poppins";
+font-size: 23px;
+font-weight: normal;
+line-height: 80px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+position: absolute;
+width: 107px;
+height: 33px;
+left: 98px;
+}
+.wave{
+border-color: #000000;
+border-width: 1px;
+color: #3d37f1;;
+align-items: center;
+position: absolute;
+width: 30.3px;
+height: 31px;
+left: 48px;
+top: 22px;
+}
+.mydiv{
+border-color: #000000;
+border-width: 1px;
+border-style: dashed;
+background: #e2e1ff; 
+background: linear-gradient(180deg, #e2e1ff 0.00%, #807cf4 100.00%);
+position: absolute;
+width: 801px;
+height: 498.8px;
+top: 373px;
+left: 1039px;
+}
+/*aq morcha pirveli halfis keteba*/
+/*aq morcha pirveli halfis keteba*/
+/*aq morcha pirveli halfis keteba*/
+/*aq morcha pirveli halfis keteba*/
+.shalf{
+position: relative;
+top: 1178px;
+width: 1920px;
+height: 1443.7px;
+background: #fbfcfd;
+border:2px solid black;
+}
+.hfive{
+font-family: "Lato";
+font-size: 20px;
+font-weight: bold;
+line-height: 80px;
+font-style: normal;
+text-align: center;
+color: #3d37f1;
+position: absolute;
+height: 25px;
+top:87px ;
+left:890px ;
+}
+.hsix{
+font-family: "Lato";
+font-size: 40px;
+font-weight: normal;
+line-height: 80px;
+font-style: normal;
+text-align: center;
+color: #5a5454;
+position: absolute;
+width: 576px;
+height: 49px;
+top: 128px;
+left: 672px;
+}
+span{
+font-family: "Roboto";
+font-size: 18px;
+font-weight: normal;
+line-height: 28px;
+font-style: normal;
+text-align: center;
+color: #747474;
+position: absolute;
+width: 712px;
+height: 85px;
+top:197px ;
+left:611px ;
+}
+/*daiwyo 6poho*/
+/*daiwyo 6poho*/
+/*daiwyo 6poho*/
+/*daiwyo 6poho*/
+/*daiwyo 6poho*/
+.tree{
+	position: relative;
+}
+.a{
+display: inline-block;
+position: absolute;
+width: 370px;
+height: 451px;
+filter: drop-shadow(0px 40px 20px rgba(197,195,249,0.15 ));
+}
+.g{
+top: 340px;
+left: 375px;
+background: #fbba77;
+background: linear-gradient(180deg, #fbba77 0.00%, #dfa871 100.00%);
+}
+.b{
+left: 774px;
+top: 340px;
+background: #41eae3;
+background: linear-gradient(180deg, #41eae3 0.00%, 	#2293b7 100.00%);
+}
+.c{
+top: 340px;
+left:1174px;
+background: #69529f;
+background: linear-gradient(180deg, #69529f 0.00%, #463864 100.00%);
+}
+.adiv{
+position: relative;
+}	
+.d{
+top: 860px;
+left:375px;
+background: #4386d2;
+background: linear-gradient(180deg, #4386d2 0.00%, #0962c5 100.00%);
+
+}
+.e{
+top: 860px;
+left:774px ;
+background: #a5a2f6;
+background: linear-gradient(180deg, #a5a2f6 0.00%, #564fd6 100.00%);
+}
+.f{
+top: 860px;
+left: 1174px;
+background: #ff8088;
+background: linear-gradient(180deg, #ff8088 0.00%, #984141 100.00%);
+}
+.ph{
+position: absolute;
+width: 100px;
+height: 100px;
+/*background: #ffffff;*/
+top:88px ;
+left:130px ;
+}
+.hf{
+font-family: "Lato";
+font-size: 22px;
+font-weight: normal;
+line-height: 54px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+position: absolute;
+width: 138px;
+height: 28px;
+top:245px ;
+left: 124px;
+}
+p{
+font-family: "Roboto";
+font-size: 16px;
+font-weight: normal;
+line-height: 26px;
+font-style: normal;
+text-align: center;
+color: #ffffff;
+position: absolute;
+width: 300px;
+height: 62px;
+top:285px ;
+left: 21px;
+}
+.dv{
+position: relative;
+width: 131px;
+height: 45px;
+border-color: #ffffff;
+border-width: 2px;
+border-style: solid;
+border-radius: 23px;
+text-align: center;
+top: 358px;
+left:119px ;
+}
+.read{
+display: inline;
+font-family: "Roboto";
+font-size: 15px;
+font-weight: normal;
+line-height: 80px;
+font-style: normal;
+text-align: center;
+color: #4b647e;
+position:absolute;
+width: 74px;
+height: 19px;
+top: -22px;
+left:29px;
+}
+
+
+
+
+
+
+
+

@@ -106,7 +106,6 @@ top: 22px;
 .mydiv{
 border-color: #000000;
 border-width: 1px;
-border-style: dashed;
 background: #e2e1ff; 
 background: linear-gradient(180deg, #e2e1ff 0.00%, #807cf4 100.00%);
 position: absolute;
@@ -286,11 +285,4 @@ height: 19px;
 top: -22px;
 left:29px;
 }
-
-
-
-
-
-
-
 
